@@ -28,18 +28,16 @@
 <img src="images/screenshot-web.jpg" width="80%" alt="cloudication 地図ビュー（Web）"/>
 </div>
 
+<p align="center"><b>― スマートフォン表示 ―</b></p>
+
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="images/screenshot-map.jpg" width="220" alt="地図上に広がる雲の投稿"/>
-<br><sub><b>地図ビュー</b><br>投稿が雲として地図上に広がる</sub>
+<td width="50%" align="center">
+<img src="images/screenshot-clouds.jpg" width="280" alt="投稿された雲の写真"/>
+<br><sub><b>雲の投稿</b><br>撮影された雲がマップ上に点在</sub>
 </td>
-<td width="33%" align="center">
-<img src="images/screenshot-clouds.jpg" width="220" alt="投稿された雲の写真"/>
-<br><sub><b>雲の投稿</b><br>撮影された雲がマップに点在</sub>
-</td>
-<td width="33%" align="center">
-<img src="images/screenshot-detail.jpg" width="220" alt="投稿詳細モーダル"/>
+<td width="50%" align="center">
+<img src="images/screenshot-detail.jpg" width="280" alt="投稿詳細モーダル"/>
 <br><sub><b>投稿詳細</b><br>写真・一言・いいね</sub>
 </td>
 </tr>
