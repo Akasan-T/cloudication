@@ -24,6 +24,10 @@
 
 ## 📸 スクリーンショット
 
+<div align="center">
+<img src="images/screenshot-web.jpg" width="80%" alt="cloudication 地図ビュー（Web）"/>
+</div>
+
 <table>
 <tr>
 <td width="33%" align="center">
